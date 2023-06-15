@@ -225,3 +225,14 @@ display: none;
 display: block;
 
 }
+@media screen and (max-width: 480px) {
+  body{
+    min-width: 100vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .main-card{
+         position: absolute;
+         left: 10px;
+  }
