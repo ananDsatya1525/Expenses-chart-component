@@ -235,4 +235,6 @@ display: block;
   .main-card{
          position: absolute;
          left: 10px;
+        padding:20px;
+    
   }
